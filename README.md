@@ -18,6 +18,8 @@ Welcome to my personal data analyst repository. Here you will find a collection 
 I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
 
 ## Table of Contents
+## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
+Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
 
 ## Contact Information
 
