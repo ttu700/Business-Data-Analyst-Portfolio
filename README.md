@@ -19,7 +19,7 @@ I am a UCI new graduate eager to drive business growth through data-driven insig
 
 ## Table of Contents
 - [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
-- 
+- [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 
 ## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
