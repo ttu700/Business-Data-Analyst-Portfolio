@@ -24,6 +24,8 @@ I am a UCI new graduate eager to drive business growth through data-driven insig
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 ## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
+##### Preview
+![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/25aeb5e6-b47e-4f41-8ead-ef2467b9aaad)
 ## [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
 ## [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
