@@ -21,12 +21,15 @@ I am a UCI new graduate eager to drive business growth through data-driven insig
 - [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 - [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
+- [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 ## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
 ## [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
 ## [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 Earning announcements can have a significant impact on the price of stocks and we aim to understand the relationship between earnings announcements and the stock's price. A thorough understanding of how earnings announcement releases impact the price of a stock can help us to make informed investment decisions and minimize investment risk.
+## [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
+A fictitious company Salifort Motors' HR department seeks data-driven insights to improve employee satisfaction and retention. Tasked with analyzing collected employee data, your project goal is to build a predictive model identifying factors that contribute to employee turnover. Anticipating employee departures can enable strategic interventions, potentially reducing the need for costly and time-consuming hiring processes, and ultimately benefiting the company.
 
 ## Contact Information
 
