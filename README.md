@@ -15,7 +15,7 @@
 Welcome to my personal data analyst repository. Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI
 
 ## About Me
-I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
+Hello, Terry here, I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
 
 ## Table of Contents
 - [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
