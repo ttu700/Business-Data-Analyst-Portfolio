@@ -22,6 +22,8 @@ I am a UCI new graduate eager to drive business growth through data-driven insig
 - [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
+- [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
+  
 ## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
 ##### Preview
@@ -33,6 +35,10 @@ Earning announcements can have a significant impact on the price of stocks and w
 ## [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 A fictitious company Salifort Motors' HR department seeks data-driven insights to improve employee satisfaction and retention. Tasked with analyzing collected employee data, your project goal is to build a predictive model identifying factors that contribute to employee turnover. Anticipating employee departures can enable strategic interventions, potentially reducing the need for costly and time-consuming hiring processes, and ultimately benefiting the company.
 
+## [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
+The Data Professionals Dashboard project involves the meticulous cleaning and formatting of data collected from a comprehensive survey targeting 700 data professionals. This initiative is designed to provide a holistic understanding of the current trends, challenges, and preferences within the data professional community. Leveraging the power of Power BI, I have transformed this rich dataset into an interactive and visually appealing dashboard.
+##### Preview
+![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
 ## Contact Information
 
 If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com)
