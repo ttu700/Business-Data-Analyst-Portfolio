@@ -41,6 +41,6 @@ The Data Professionals Dashboard project involves the meticulous cleaning and fo
 ![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
 ## Contact Information
 
-If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com)
+If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tuterry/)
 
 Thank you for visiting my Data Analysis Portfolio!
