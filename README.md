@@ -39,6 +39,10 @@ A fictitious company Salifort Motors' HR department seeks data-driven insights t
 The Data Professionals Dashboard project involves the meticulous cleaning and formatting of data collected from a comprehensive survey targeting 700 data professionals. This initiative is designed to provide a holistic understanding of the current trends, challenges, and preferences within the data professional community. Leveraging the power of Power BI, I have transformed this rich dataset into an interactive and visually appealing dashboard.
 ##### Preview
 ![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
+
+## [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
+Embark on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
+
 ## Contact Information
 
 If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tuterry/)
