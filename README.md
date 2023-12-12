@@ -12,7 +12,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 
 # Data Analyst Portfolio
-Welcome to my personal data analyst repository. Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI
+Welcome to my data analyst repository. Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI
 
 ## About Me
 Hello, I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
@@ -23,6 +23,7 @@ Hello, I am a UCI new graduate eager to drive business growth through data-drive
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 - [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
+- [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
   
 ## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
