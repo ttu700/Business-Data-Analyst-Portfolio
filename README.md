@@ -42,7 +42,7 @@ The Data Professionals Dashboard project involves the meticulous cleaning and fo
 ![image](https://raw.githubusercontent.com/ttu700/Data-Professional-Breakdown-Dashboard/main/dashboard_gif.gif)
 
 ## [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
-Embark on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
+Embarked on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
 
 
 ## Contact Information
