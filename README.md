@@ -18,17 +18,20 @@ Welcome to my data analyst repository. Here you will find a collection of projec
 Hello, I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
 
 ## Table of Contents
-- [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
+- [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis))
 - [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 - [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
 - [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
   
-## [Project 1: Pizza Sales Analysis](https://github.com/ttu700/Pizza-Sales-Analysis)
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place
+## [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
+This data analysis project on Amazon India Sales data using Microsoft Power BI. The cleaned dataset, comprising 128,975 records, provides detailed insights into e-commerce sales, including channels like Shiprocket and INCREFF. It covers financial aspects, SKU codes, design numbers, stock levels, product details, and store-specific MRPs (Ajio, Amazon, Flipkart, etc.). Key transactional parameters such as date, category, fulfillment status, and gross amount are also included. The project focuses on profitability analysis and offers a Power BI report with interactive visualizations. Explore the repository for insights into e-commerce sales dynamics and leverage the code and documentation for your specific needs
+
 ##### Preview
-![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/25aeb5e6-b47e-4f41-8ead-ef2467b9aaad)
+![gif](https://github.com/ttu700/Amazon-India-Sales-Analysis/blob/main/showcase.gif)
+
+
 ## [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
 ## Preview
@@ -52,13 +55,6 @@ The Data Professionals Dashboard project involves the meticulous cleaning and fo
 
 ## [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
 Embarked on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
-
-## [Project 7: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
-This data analysis project on Amazon India Sales data using Microsoft Power BI. The cleaned dataset, comprising 128,975 records, provides detailed insights into e-commerce sales, including channels like Shiprocket and INCREFF. It covers financial aspects, SKU codes, design numbers, stock levels, product details, and store-specific MRPs (Ajio, Amazon, Flipkart, etc.). Key transactional parameters such as date, category, fulfillment status, and gross amount are also included. The project focuses on profitability analysis and offers a Power BI report with interactive visualizations. Explore the repository for insights into e-commerce sales dynamics and leverage the code and documentation for your specific needs
-
-##### Preview
-![gif](https://github.com/ttu700/Amazon-India-Sales-Analysis/blob/main/showcase.gif)
-
 
 ## Contact Information
 
