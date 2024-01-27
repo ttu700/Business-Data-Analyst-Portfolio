@@ -31,10 +31,19 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 ![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/25aeb5e6-b47e-4f41-8ead-ef2467b9aaad)
 ## [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
+## Preview
+![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/51df3b02-6bdd-43bd-8df0-3f1f4fba3150)
+
 ## [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 Earning announcements can have a significant impact on the price of stocks and we aim to understand the relationship between earnings announcements and the stock's price. A thorough understanding of how earnings announcement releases impact the price of a stock can help us to make informed investment decisions and minimize investment risk.
+## Preview
+![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/f39b6528-347e-4aad-a2f1-4cd826be5981)
+
 ## [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 A fictitious company Salifort Motors' HR department seeks data-driven insights to improve employee satisfaction and retention. Tasked with analyzing collected employee data, your project goal is to build a predictive model identifying factors that contribute to employee turnover. Anticipating employee departures can enable strategic interventions, potentially reducing the need for costly and time-consuming hiring processes, and ultimately benefiting the company.
+
+## Preview
+![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/56730ff4-8d5f-4812-886f-e052c0605789)
 
 ## [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
 The Data Professionals Dashboard project involves the meticulous cleaning and formatting of data collected from a comprehensive survey targeting 700 data professionals. This initiative is designed to provide a holistic understanding of the current trends, challenges, and preferences within the data professional community. Leveraging the power of Power BI, I have transformed this rich dataset into an interactive and visually appealing dashboard.
