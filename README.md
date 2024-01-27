@@ -18,7 +18,7 @@ Welcome to my data analyst repository. Here you will find a collection of projec
 Hello, I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
 
 ## Table of Contents
-- [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis))
+- [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
 - [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
