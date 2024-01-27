@@ -44,7 +44,11 @@ The Data Professionals Dashboard project involves the meticulous cleaning and fo
 ## [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
 Embarked on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
 
+## [Project 7: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
+Cleaned an Amazon India Sales data set involving 128k records and interpreted meaningful insights with Microsoft Power BI.
 
+##### Preview
+![image](https://github.com/ttu700/Amazon-India-Sales-Analysis/blob/main/retail-sales-analysis%20project/showcase.gif)
 ## Contact Information
 
 If you have any questions, please feel free to reach out to me. You can contact me via email at [terry.tu700gmail.com](mailto:terry.tu700gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tuterry/)
