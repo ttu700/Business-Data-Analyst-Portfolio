@@ -19,11 +19,12 @@ Hello, I am a UCI new graduate eager to drive business growth through data-drive
 
 ## Table of Contents
 - [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
-- [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
+- [Project 2: Spotify Music Analysis](https://github.com/ttu700/Spotify-Music-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 - [Project 4: Google Advanced Data Analytics Capstone Project](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project)
 - [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
 - [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
+- [Project 7: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
   
 ## [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
 This data analysis project on Amazon India Sales data using Microsoft Power BI. The cleaned dataset, comprising 128,975 records, provides detailed insights into e-commerce sales, including channels like Shiprocket and INCREFF. It covers financial aspects, SKU codes, design numbers, stock levels, product details, and store-specific MRPs (Ajio, Amazon, Flipkart, etc.). Key transactional parameters such as date, category, fulfillment status, and gross amount are also included. The project focuses on profitability analysis and offers a Power BI report with interactive visualizations. Explore the repository for insights into e-commerce sales dynamics and leverage the code and documentation for your specific needs
@@ -31,11 +32,11 @@ This data analysis project on Amazon India Sales data using Microsoft Power BI. 
 ##### Preview
 ![gif](https://github.com/ttu700/Amazon-India-Sales-Analysis/blob/main/showcase.gif)
 
+## [Project 2: Spotify Music Analysis](https://github.com/ttu700/Spotify-Music-Analysis)
+Explore my musical journey through years of Spotify listening history, visualized and analyzed in this Power BI project. With 146,000 rows of data, delve into top tracks, favorite artists, genre trends, and temporal patterns, uncovering insights into my evolving musical tastes. Interactive dashboards and dynamic visualizations offer a captivating exploration of personal music preferences, inviting you to discover the stories hidden within the data.
 
-## [Project 2: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
-Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
-## Preview
-![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/51df3b02-6bdd-43bd-8df0-3f1f4fba3150)
+##### Preview
+![gif](https://github.com/ttu700/Spotify-Music-Analysis/blob/main/spotifyprojectshowcase.gif?raw=true)
 
 ## [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
 Earning announcements can have a significant impact on the price of stocks and we aim to understand the relationship between earnings announcements and the stock's price. A thorough understanding of how earnings announcement releases impact the price of a stock can help us to make informed investment decisions and minimize investment risk.
@@ -55,6 +56,13 @@ The Data Professionals Dashboard project involves the meticulous cleaning and fo
 
 ## [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
 Embarked on a Python data analysis journey with projects ranging from a concise 3x3 matrix MeanVarStd Calculator to a comprehensive Sea Level Predictor. Dive into demographic insights, medical data relationships, and page view trends. These projects leverage Pandas, Matplotlib, and Scipy to unravel complex data patterns, providing a dynamic exploration of diverse analytical scenarios.
+
+## [Project 7: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
+Stroke prediction Analysis predicts the likelihood of a stroke for an individual depending on their age, BMI, smoking status, gender, and other various diseases.
+## Preview
+![image](https://github.com/ttu700/Data-Analyst-Portfolio/assets/68859758/51df3b02-6bdd-43bd-8df0-3f1f4fba3150)
+
+
 
 ## Contact Information
 
