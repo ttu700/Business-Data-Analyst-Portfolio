@@ -15,9 +15,10 @@
 Welcome to my data analyst repository. Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI
 
 ## About Me
-Hello, I am a UCI new graduate eager to drive business growth through data-driven insights and optimize operations as a dedicated data analyst.
+Hello, I'm Terry Tu and I'm currently pursuing a master's degree in analytics at Georgia Tech OSMA. I am an aspiring data analyst, so feel free to critique my work or.. if you enjoy what you see offer me work! Wish you well :)
 
 ## Table of Contents
+- [Project 0: Stock Research Dashboard](https://github.com/ttu700/Stock-Research-Dashboard)
 - [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
 - [Project 2: Spotify Music Analysis](https://github.com/ttu700/Spotify-Music-Analysis)
 - [Project 3: Earnings Impact Across Industries Analysis](https://github.com/ttu700/Earnings-Impact-Across-Industries-Analysis)
@@ -25,7 +26,13 @@ Hello, I am a UCI new graduate eager to drive business growth through data-drive
 - [Project 5: Data Professional Breakdown Dashboard](https://github.com/ttu700/Data-Professional-Breakdown-Dashboard/)
 - [Project 6: Data analysis in Python freecodecamp series](https://github.com/ttu700/Data-analysis-in-Python-Projects)
 - [Project 7: Stroke Prediction Analysis](https://github.com/ttu700/Stroke-prediction-Analysis)
-  
+
+## [Project 0: Dynamic Stock Research Dashboard](https://github.com/ttu700/Stock-Research-Dashboard)
+This data analysis project on stocks was inspired by my past years in trading! The data was acquired straight from alphavantage API. I utilized power-query and a bit of m-code to clean up the dataset and make it look better. Anyways, I always wanted to have a neat little dashboard that had functional applications. Feel free to download and use it for yourself. You can adjust the ticker to show different stock prices as well as news sentiments. Let me know if there are any features that you would like. 
+
+##### Preview
+![image](https://github.com/ttu700/Stock-Research-Dashboard/blob/main/Stock%20Research%20Dashboard/stockshowcase.gif)
+
 ## [Project 1: Amazon India Sales Analysis](https://github.com/ttu700/Amazon-India-Sales-Analysis)
 This data analysis project on Amazon India Sales data using Microsoft Power BI. The cleaned dataset, comprising 128,975 records, provides detailed insights into e-commerce sales, including channels like Shiprocket and INCREFF. It covers financial aspects, SKU codes, design numbers, stock levels, product details, and store-specific MRPs (Ajio, Amazon, Flipkart, etc.). Key transactional parameters such as date, category, fulfillment status, and gross amount are also included. The project focuses on profitability analysis and offers a Power BI report with interactive visualizations. Explore the repository for insights into e-commerce sales dynamics and leverage the code and documentation for your specific needs
 
