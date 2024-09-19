@@ -15,7 +15,7 @@
 Welcome to my data analyst repository. Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI
 
 ## About Me
-Hello, I'm Terry Tu and I'm currently pursuing a master's degree in analytics at Georgia Tech OSMA. I am an aspiring data analyst, so feel free to critique my work or.. if you enjoy what you see offer me work! Wish you well :)
+Hello, I'm Terry Tu and I'm currently pursuing a master's degree in analytics at Georgia Tech OSMA. I am an aspiring data analyst, so feel free to critique my work.
 
 ## Table of Contents
 - [Project 0: Stock Research Dashboard](https://github.com/ttu700/Stock-Research-Dashboard)
